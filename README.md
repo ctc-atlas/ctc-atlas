@@ -1,7 +1,7 @@
 # CTC-Atlas
 
 **Projects released by the joint laboratory of Raymind Biotechnology Co., Ltd
-(睿迈生物) and the Shenzhen Research Institute of Big Data (深圳大数据研究院 / SRIBD).**
+ and the Shenzhen Research Institute of Big Data.**
 
 CTC-Atlas builds single-cell foundation models and data infrastructure for
 liquid-biopsy oncology — turning circulating tumor cells (CTCs) and other
