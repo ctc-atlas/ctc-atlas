@@ -38,8 +38,6 @@ scenarios — **cancer screening, precision oncology, and drug discovery** —
 and to build an integrated life-health ecosystem that unites **data
 resources, model capabilities, and clinical translation**.
 
-Our goal is to contribute to the high-quality growth of the life-health
-industry in Shenzhen, the Greater Bay Area, and China as a whole.
 
 ## Partners
 
